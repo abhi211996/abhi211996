@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **abhishek.mnnit21@gmai**
+- 📫 How to reach me **abhishek.mnnit21@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
